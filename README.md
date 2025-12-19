@@ -19,15 +19,10 @@
 ### 🩺 Doctor Appointment Booking System (MERN)
 - Authentication, appointment scheduling & payment integration  
 - Tech: React, Node.js, Express, MongoDB  
-- 🔗 Repo: https://github.com/your-username/doctor-appointment  
-- 🌐 Live: https://your-live-link.com  
+- 🔗 Repo: https://github.com/mdcricshukla/Doctor-Appointment 
+  
 
-### 📚 E-Learning Platform
-- Secure login, course purchase & payment integration  
-- Tech: React, Node.js, MongoDB  
-- 🔗 Repo: https://github.com/your-username/e-learning  
 
----
 
 ## 📈 Currently Learning
 - Advanced Backend Development  
@@ -37,8 +32,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/your-linkedin  
-- GitHub: https://github.com/your-username  
+- LinkedIn: https://www.linkedin.com/in/mayank-shukla-a2aa09278/ 
+- GitHub: https://github.com/mdcricshukla 
 
 ⭐ Feel free to check out my repositories and connect!
 
